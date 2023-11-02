@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Discord_Bot\\Discord_Bot.csproj": {}
+    "C:\\Users\\User\\Desktop\\C#\\Discord_Bot\\Discord_Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Discord_Bot\\Discord_Bot.csproj": {
+    "C:\\Users\\User\\Desktop\\C#\\Discord_Bot\\Discord_Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Discord_Bot\\Discord_Bot.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C#\\Discord_Bot\\Discord_Bot.csproj",
         "projectName": "Discord_Bot",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Discord_Bot\\Discord_Bot.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Discord_Bot\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\C#\\Discord_Bot\\Discord_Bot.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C#\\Discord_Bot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visual studio\\Shared components\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
